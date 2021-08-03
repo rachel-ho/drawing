@@ -30,8 +30,7 @@ The first letter of the command can be either lower case or upper case.  All coo
 | Command       | Description
 | ------------- | ----------------------------------------------------------------------------------------------------------------- |
 | C w h         | Create a new canvas with width w and height h |
-| L x1 y1 x2 y2 | Draw a vertical or horizontal line from (x1, y1) to (x2, y2) with the character 'x'<br>\
-                  Note: x1=x2 or y1=y2 |
+| L x1 y1 x2 y2 | Draw a vertical or horizontal line from (x1, y1) to (x2, y2) with the character 'x'<br>Note: x1=x2 or y1=y2 |
 | R x1 y1 x2 y2 | Draw a rectangle with opposite corners (x1, y1) and (x2, y2) with the character 'x'<br>Note: x1!=x2 and y1!=y2; any opposite corners will work |
 | B x y c       | Fill all contiguous points to (x, y) with the character 'c'<br>Note: If region is already filled with another character it will replace the old character with the new character |
 | Q             | Quit the program |
