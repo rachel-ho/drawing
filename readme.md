@@ -6,7 +6,7 @@ This is a simple console drawing program written in Python.   It uses the NumPy 
 ### Instructions
 1. Save drawing.py and test_drawing.py to the same folder
 2. Navigate to the folder from the terminal
-3. To run the program: run drawing.py with the **python drawing.py** command
+3. To run program: run drawing.py with the **python drawing.py** command
 4. To run unit testing: run test_drawing.py with the **pytest** command
 
 
