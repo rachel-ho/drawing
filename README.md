@@ -1,7 +1,0 @@
-# drawing
-
-## drawing
-
-### drawing
-
-**drawing**
